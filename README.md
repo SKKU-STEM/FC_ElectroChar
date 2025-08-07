@@ -103,6 +103,7 @@ pip install hyperspy=1.7.3 scikit-learn matplotlib numpy tqdm torch torchvision 
 If you use this code or data, please cite:
 
 D. Yang#, Y.-H. Kim#, H. J. Lee#, S.-H. Yang, M. H. Jung, E.-B. Park, H. S. Kim, Y. Jeon, Y. Heo, K. H. Kim, S. Cho, Y. S. Kang, K. K. Kim, H. Lee, S.-D. Yim, J. H. Jang*, S. Lee*, Y.-M. Kim*
+
 "Efficient Probing of Structural Degradation of Catalyst–Ionomer–Carbon Composite Electrode Using Machine Learning-empowered Spectroscopic Imaging",  
 
 
