@@ -1,9 +1,19 @@
 # 🔬 ML-assisted STEM-EELS Mapping of Catalyst–Ionomer–Carbon Interface in PEMFC Cathodes
 
-This repository accompanies the research article:
+## 📝 Associated Publication
 
-> **Efficient Probing of Structural Degradation of Catalyst–Ionomer–Carbon Composite Electrode Using Machine Learning-empowered Spectroscopic Imaging**  
-> Daehee Yang,#, Young-Hoon Kim,#, Hyo June Lee,#, Sang-Hyeok Yang, Min Hyoung Jung, Eun-Byeol Park, Hang Sik Kim, Yerin Jeon, Yuseong Heo, Ka Hyun Kim, Sungyong Cho, Yun Sik Kang, Ki Kang Kim, Hangil Lee, Sung-Dae Yim, Jae Hyuck Jang*, Sungchul Lee* and Young-Min Kim*  
+This repository accompanies the following research article:
+
+### 📄 **Efficient Probing of Structural Degradation of Catalyst–Ionomer–Carbon Composite Electrode Using Machine Learning-empowered Spectroscopic Imaging**
+
+**Authors:**  
+Daehee Yang#, Young-Hoon Kim#, Hyo June Lee#, Sang-Hyeok Yang, Min Hyoung Jung,  
+Eun-Byeol Park, Hang Sik Kim, Yerin Jeon, Yuseong Heo, Ka Hyun Kim, Sungyong Cho,  
+Yun Sik Kang, Ki Kang Kim, Hangil Lee, Sung-Dae Yim, Jae Hyuck Jang\*,  
+Sungchul Lee\*, Young-Min Kim\*
+
+**Journal:**   
+**DOI:** 
 
 ---
 
@@ -90,9 +100,11 @@ pip install hyperspy=1.7.3 scikit-learn matplotlib numpy tqdm torch torchvision 
 
 ## 📖 Citation
 
-> D. Yang#, Y.-H. Kim#, H. J. Lee#, S.-H. Yang, M. H. Jung, E.-B. Park, H. S. Kim, Y. Jeon, Y. Heo, K. H. Kim, S. Cho, Y. S. Kang, K. K. Kim, H. Lee, S.-D. Yim, J. H. Jang*, S. Lee*, Y.-M. Kim*
-> *Efficient Probing of Structural Degradation of Catalyst–Ionomer–Carbon Composite Electrode Using Machine Learning-empowered Spectroscopic Imaging*,  
-> 
+If you use this code or data, please cite:
+
+D. Yang#, Y.-H. Kim#, H. J. Lee#, S.-H. Yang, M. H. Jung, E.-B. Park, H. S. Kim, Y. Jeon, Y. Heo, K. H. Kim, S. Cho, Y. S. Kang, K. K. Kim, H. Lee, S.-D. Yim, J. H. Jang*, S. Lee*, Y.-M. Kim*
+"Efficient Probing of Structural Degradation of Catalyst–Ionomer–Carbon Composite Electrode Using Machine Learning-empowered Spectroscopic Imaging",  
+
 
 ---
 
