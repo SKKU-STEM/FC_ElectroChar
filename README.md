@@ -93,7 +93,7 @@ This repository provides a complete machine-learning-assisted pipeline for analy
 ## 📦 Requirements
 
 ```bash
-pip install hyperspy=1.7.3 scikit-learn matplotlib numpy tqdm torch torchvision opencv-python
+pip install hyperspy=1.7.3 scikit-learn matplotlib numpy tqdm torch torchvision
 ```
 
 ---
