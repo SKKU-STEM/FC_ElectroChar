@@ -38,7 +38,7 @@ This repository provides a complete machine-learning-assisted pipeline for analy
 ├── 1.Ionomer-support_segmentation.ipynb   # C K-edge EELS spectral decomposition (NMF + ICA + clustering)
 ├── 2.Pt_segmentation.ipynb                # Catalyst segmentation with U-Net, area-based classification
 ├── 3.Pt_size_analysis.ipynb               # Area histogram and lifecycle comparison
-├── 4.Statistical_analysis.ipynb           # Pt-ionomer/carbon/contact quantification
+├── 4.Statistical_analysis.ipynb           # Ionomer coverage, Pt contact quantification
 └── README.md
 ```
 
