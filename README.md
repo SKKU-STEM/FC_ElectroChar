@@ -71,7 +71,7 @@ This repository provides a complete machine-learning-assisted pipeline for analy
 ---
 
 ### `3.Pt_size_analysis.ipynb`
-- Aggregates area distributions across BOL, SOL, EOL stages
+- Aggregates area distributions across BOL, EOL stages
 - Computes and visualizes:
   - Average particle area
   - Histogram comparison
