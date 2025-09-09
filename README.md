@@ -12,8 +12,8 @@ Eun-Byeol Park, Hang Sik Kim, Yerin Jeon, Yuseong Heo, Ka Hyun Kim, Sungyong Cho
 Yun Sik Kang, Ki Kang Kim, Hangil Lee, Sung-Dae Yim, Jae Hyuck Jang\*,  
 Sungchul Lee\*, Young-Min Kim\*
 
-**Journal:**   
-**DOI:** 
+**Journal: Applied Catalysis B: Environment and Energy 382, 125911 (2026)**   
+**DOI: https://doi.org/10.1016/j.apcatb.2025.125911** 
 
 ---
 
@@ -104,7 +104,7 @@ If you use this code or data, please cite:
 
 D. Yang#, Y.-H. Kim#, H. J. Lee#, S.-H. Yang, M. H. Jung, E.-B. Park, H. S. Kim, Y. Jeon, Y. Heo, K. H. Kim, S. Cho, Y. S. Kang, K. K. Kim, H. Lee, S.-D. Yim, J. H. Jang*, S. Lee*, Y.-M. Kim*
 
-"Efficient Probing of Structural Degradation of Catalyst–Ionomer–Carbon Composite Electrode Using Machine Learning-empowered Spectroscopic Imaging",  
+"Efficient Probing of Structural Degradation of Catalyst–Ionomer–Carbon Composite Electrode Using Machine Learning-empowered Spectroscopic Imaging" Applied Catalysis B: Environment and Energy 382, 125911 (2026),  
 
 
 ---
